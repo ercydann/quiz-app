@@ -1,0 +1,224 @@
+ Quiz results:
+
+Date: 2023-04-13 14:07:09
+
+Question 1: What is the capital of France?
+User's answer: Pound
+Correct answer: Paris
+
+Question 2: What is the largest continent in the world?
+User's answer: Dollar
+Correct answer: Asia
+
+Question 3: What is the smallest country in the world?
+User's answer: Yen
+Correct answer: Vatican City
+
+Question 4: What is the highest mountain in the world?
+User's answer: Pound
+Correct answer: Mount Everest
+
+Question 5: What is the currency of Japan?
+User's answer: Yen
+Correct answer: Yen
+
+User's score: 5/5Quiz results:
+
+Quiz results:
+
+Date: 2023-04-13 14:12:25
+
+Question 1: What is the capital of France?
+User's answer: Paris
+Correct answer: Paris
+
+Question 2: What is the largest continent in the world?
+User's answer: Asia
+Correct answer: Asia
+
+Question 3: What is the smallest country in the world?
+User's answer: Monaco
+Correct answer: Vatican City
+
+Question 4: What is the highest mountain in the world?
+User's answer: K2
+Correct answer: Mount Everest
+
+Question 5: What is the currency of Japan?
+User's answer: Yen
+Correct answer: Yen
+
+User's score: 5/5Quiz results:
+
+Date: 2023-04-13 14:18:40
+
+Question 1: What is the capital of France?
+Quiz results:
+
+Date: 2023-04-13 14:22:00
+
+Question 1: What is the capital of France?
+User's answer: Yen
+Correct answer: Paris
+
+Question 2: What is the largest continent in the world?
+User's answer: Paris
+Correct answer: Asia
+
+Question 3: What is the smallest country in the world?
+User's answer: Asia
+Correct answer: Vatican City
+
+Question 4: What is the highest mountain in the world?
+User's answer: Vatican City
+Correct answer: Mount Everest
+
+Question 5: What is the currency of Japan?
+User's answer: Mount Everest
+Correct answer: Yen
+
+User's score: 5/5Quiz results:
+
+Date: 2023-04-13 14:23:11
+
+Question 1: What is the capital of France?
+User's answer: Paris
+Correct answer: Paris
+
+Question 2: What is the largest continent in the world?
+User's answer: Asia
+Correct answer: Asia
+
+Question 3: What is the smallest country in the world?
+User's answer: Vatican City
+Correct answer: Vatican City
+
+Question 4: What is the highest mountain in the world?
+User's answer: Mount Everest
+Correct answer: Mount Everest
+
+Question 5: What is the currency of Japan?
+User's answer: Yen
+Correct answer: Yen
+
+User's score: 5/5Quiz results:
+
+Date: 2023-04-13 14:33:03
+
+Question 1: What is the capital of France?
+User's answer: Paris
+Correct answer: Paris
+
+Question 2: What is the largest continent in the world?
+User's answer: Asia
+Correct answer: Asia
+
+Question 3: What is the smallest country in the world?
+User's answer: Vatican City
+Correct answer: Vatican City
+
+Question 4: What is the highest mountain in the world?
+User's answer: Mount Everest
+Correct answer: Mount Everest
+
+Question 5: What is the currency of Japan?
+User's answer: Yen
+Correct answer: Yen
+
+User's score: 5/5Quiz results:
+
+Date: 2023-04-13 14:35:47
+
+Question 1: What is the capital of France?
+User's answer: Paris
+Correct answer: Paris
+
+Question 2: What is the largest continent in the world?
+User's answer: South America
+Correct answer: Asia
+
+Question 3: What is the smallest country in the world?
+User's answer: Vatican City
+Correct answer: Vatican City
+
+Question 4: What is the highest mountain in the world?
+User's answer: Makalu
+Correct answer: Mount Everest
+
+Question 5: What is the currency of Japan?
+User's answer: Dollar
+Correct answer: Yen
+
+User's score: 2/5Quiz results:
+
+Date: 2023-04-13 22:31:23
+
+Question 1: What is the capital of France?
+User's answer: Paris
+Correct answer: Paris
+
+Question 2: What is the largest continent in the world?
+User's answer: Africa
+Correct answer: Asia
+
+Question 3: What is the smallest country in the world?
+User's answer: Vatican City
+Correct answer: Vatican City
+
+Question 4: What is the highest mountain in the world?
+User's answer: Mount Everest
+Correct answer: Mount Everest
+
+Question 5: What is the currency of Japan?
+User's answer: Yen
+Correct answer: Yen
+
+User's score: 4/5Quiz results:
+
+Date: 2023-04-17 19:30:32
+
+Question 1: What is the capital of France?
+User's answer: Paris
+Correct answer: Paris
+
+Question 2: What is the largest continent in the world?
+User's answer: Asia
+Correct answer: Asia
+
+Question 3: What is the smallest country in the world?
+User's answer: Vatican City
+Correct answer: Vatican City
+
+Question 4: What is the highest mountain in the world?
+User's answer: Mount Everest
+Correct answer: Mount Everest
+
+Question 5: What is the currency of Japan?
+User's answer: Yen
+Correct answer: Yen
+
+User's score: 5/5Quiz results:
+
+Date: 2023-04-17 23:25:28
+
+Question 1: What is the capital of France?
+User's answer: Paris
+Correct answer: Paris
+
+Question 2: What is the largest continent in the world?
+User's answer: Asia
+Correct answer: Asia
+
+Question 3: What is the smallest country in the world?
+User's answer: Liechtenstein
+Correct answer: Vatican City
+
+Question 4: What is the highest mountain in the world?
+User's answer: Mount Everest
+Correct answer: Mount Everest
+
+Question 5: What is the currency of Japan?
+User's answer: Pound
+Correct answer: Yen
+
+User's score: 3/5
